@@ -8,7 +8,7 @@ Diseñar e implementar un gestor de inventarios.
 -	Escribe código con calidad de producción y proporciona una solución funcional (al menos con tests como punto de entrada)
 -	Es suficiente con que los datos estén en memoria (no es necesario código de base de datos)
 -	Documenta todos los “atajos” que estés utilizando. El ejercicio se revisará como si estuviera escrito para producción. Si no se menciona un atajo o simplificación, entenderemos que se debe a tu nivel de experiencia.
-	Por ejemplo: “Así es como se gestionaría la seguridad. No lo incluyo en el código porque hubiera sido demasiado costoso en tiempo”
+    - Por ejemplo: “Así es como se gestionaría la seguridad. No lo incluyo en el código porque hubiera sido demasiado costoso en tiempo”
 -	Escribe tests
 -	Por favor pregúntanos cualquier duda que tengas sobre el ejercicio.
 -	OPCIONAL: Sube tu solución a un repositorio en Github para facilitarnos la revisión.
